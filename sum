@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    int iNo1, iNo2 ;
+    scanf("%d,%d", &iNo1 &iNo2)
+    int isum = iNo1 + iNo2;
+    printf("%d", isum)
+    return 0;
+}
